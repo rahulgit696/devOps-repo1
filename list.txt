@@ -1,0 +1,7 @@
+Random List File Created.
+
+jheajkh
+ejqhrjh
+cat list.txt
+cls
+clear
